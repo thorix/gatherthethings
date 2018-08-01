@@ -1,0 +1,4 @@
+pypd
+hvac
+python-nmap
+netaddr
